@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry (ACS), University of Connecticut (2019 – Present)
-* High School Diploma in Chemistry, Joseph A. Foran High School (2015 – 2019)
+* B.S. in Chemistry (ACS), University of Connecticut (2019 – Present)  
+* Minor in Molecular Cell Biology, University of Connecticut (2019 – Present)  
+* High School Diploma in Chemistry, Joseph A. Foran High School (2015 – 2019)  
 
 Work experience
 ======
@@ -88,21 +89,21 @@ Work experience
 
 Awards & Honors
 ======
-* Latin Honor Society :contentReference[oaicite:0]{index=0}  
-* Charles E. Warring Chemistry Scholarship :contentReference[oaicite:1]{index=1}  
+* Latin Honor Society  
+* Charles E. Warring Chemistry Scholarship     
 
 Languages
 ======
-* English (Native or Bilingual) :contentReference[oaicite:2]{index=2}
-* Russian (Elementary)  :contentReference[oaicite:3]{index=3}
+* English (Native or Bilingual) 
+* Russian (Elementary)  
 
 Certifications
 ======
-* SAChE® Certificate Program – ELA950 :contentReference[oaicite:3]{index=3}  
-* SAChE® Certificate Program – ELA951 :contentReference[oaicite:4]{index=4}  
-* SAChE® Certificate Program – ELA952 :contentReference[oaicite:5]{index=5}  
-* SAChE® Certificate Program – ELA953 :contentReference[oaicite:6]{index=6}  
-* SAChE® Certificate Program – ELA954 :contentReference[oaicite:7]{index=7}  
+* SAChE® Certificate Program – ELA950  
+* SAChE® Certificate Program – ELA951  
+* SAChE® Certificate Program – ELA952  
+* SAChE® Certificate Program – ELA953  
+* SAChE® Certificate Program – ELA954  
 
 
 Skills
