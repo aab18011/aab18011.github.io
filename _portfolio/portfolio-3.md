@@ -1,6 +1,6 @@
 ---
 title: "Personal Research in 5HT2A Receptor Cascade Frequencies"
-excerpt: "The 5‑HT₂A receptor (PDB 6A93) is a G protein‑coupled receptor that couples to Gq/11 (activating PLC and Ca²⁺ release) and recruits β‑arrestin (leading to desensitization/internalization). LSD is known to engage both pathways with a behavioral bias toward β‑arrestin in vivo.<br/><img src='/images/automatic-sprayer-v1.png'>"
+excerpt: "The 5‑HT₂A receptor (PDB 6A93) is a G protein‑coupled receptor that couples to Gq/11 (activating PLC and Ca²⁺ release) and recruits β‑arrestin (leading to desensitization/internalization). LSD is known to engage both pathways with a behavioral bias toward β‑arrestin in vivo.<br/><img src='/images/6a93-overlay.png'>"
 collection: portfolio
 ---
 <!-- **Project Overview** -->
@@ -46,3 +46,8 @@ The 5‑HT₂A receptor (PDB 6A93) is a G protein‑coupled receptor that coup
 - Long‑timescale enhanced sampling (umbrella/PLUMED) along TM6 and NPxxY CVs.  
 - In vitro validation via IP₃ assays and arrestin BRET.  
 - Extension to other psychedelics and receptor subtypes.
+
+
+# Photos
+<br/><img src='/images/DRY-motif.png'>
+<br/><img src='/images/TM3-TM6.png'>
