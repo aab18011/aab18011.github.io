@@ -28,7 +28,7 @@ author:
   bio              : "Organic Chemistry; Computational Biology; Titanium Catalysis; Protein Chemistry"
   location         : "Columbia, CT 06237, USA"
   employer         : "University of Connecticut"
-  uri              : # URL
+  uri              : "aab18011.github.io"# URL
   email            : "aidan.bradley@uconn.edu" 
 
   # Academic websites
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-8732-2904"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Aidan-Bradley-3"# URL
   scopus           : # URL
 
   # Repositories and software development
