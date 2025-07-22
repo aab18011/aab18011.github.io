@@ -1,6 +1,6 @@
 ---
 title: "Scoring and Evaluation Algorithm for MD Simulation Data"
-excerpt: "Overview of our MD scoring workflow for 5‑HT₂A receptor simulations."
+excerpt: "Overview of our MD scoring workflow for 5‑HT₂A receptor simulations.<br/><img src='/images/scoring-function.png'>"
 collection: portfolio
 ---
 
@@ -31,11 +31,8 @@ For each metric, only the **latter half** of the simulation (50 % of the total
 
 ---
 <br/><img src='/images/scoring-function.png'>
----
 
 <br/><img src='/images/weighting-scheme.png'>
-
----
 
 <br/><img src='/images/score-matrix.png'>
 
