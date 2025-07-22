@@ -1,6 +1,6 @@
 ---
 title: "VFD Display Tube Code - Clock"
-excerpt: "Simple MAXIM MAX6921AWI Driver Code using Raspberry Pi Pico W<br/><img src='/images/500x300.png'>"
+excerpt: "Simple MAXIM MAX6921AWI Driver Code using Raspberry Pi Pico W<br/><img src='/images/vfd1.jpg'>"
 collection: portfolio
 ---
 **Overview**
