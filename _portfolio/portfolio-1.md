@@ -82,7 +82,7 @@ The remaining ~~4~~ 3 bits of the 20-bit buffer can be used for control logic. H
 
 ---
 
-<br/><img src='/images/vf2.jpg'>
+<br/><img src='/images/vfd2.jpg'>
 
 <br/><img src='/images/circuitboard.jpg'>
 
