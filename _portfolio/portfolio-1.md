@@ -48,6 +48,7 @@ This project demonstrates how to drive a VFD (Vacuum Fluorescent Display) using 
  -- .       <- Segment D (Bottom) and H (Decimal point)
 ```
 #### Alphanumeric Segment Pinout:
+```
 | VFD Pin | Segment |
 |---------|---------|
 | Pin 12  | A       |
@@ -59,7 +60,7 @@ This project demonstrates how to drive a VFD (Vacuum Fluorescent Display) using 
 | Pin 3   | D       |
 | Pin 2   | H (Decimal Point) |
 | Pin 1, 13 | Heating elements (not coded) |
-
+```
 ---
 
 ## Control Logic and Commands
