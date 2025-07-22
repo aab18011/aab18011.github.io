@@ -86,6 +86,25 @@ Work experience
   * **Duties include:** Teaching Scratch, Ozobot programming & Python fundamentals.  
   * **Supervisor:** Not specified
 
+Awards & Honors
+======
+* Latin Honor Society :contentReference[oaicite:0]{index=0}  
+* Charles E. Warring Chemistry Scholarship :contentReference[oaicite:1]{index=1}  
+
+Languages
+======
+* English (Native or Bilingual) :contentReference[oaicite:2]{index=2}
+* Russian (Elementary)  :contentReference[oaicite:3]{index=3}
+
+Certifications
+======
+* SAChE® Certificate Program – ELA950 :contentReference[oaicite:3]{index=3}  
+* SAChE® Certificate Program – ELA951 :contentReference[oaicite:4]{index=4}  
+* SAChE® Certificate Program – ELA952 :contentReference[oaicite:5]{index=5}  
+* SAChE® Certificate Program – ELA953 :contentReference[oaicite:6]{index=6}  
+* SAChE® Certificate Program – ELA954 :contentReference[oaicite:7]{index=7}  
+
+
 Skills
 ======
 - **Computational Chemistry & Modeling**  
@@ -122,8 +141,8 @@ Computer Science & Software Skills
 ======
 
 - **Programming Languages**  
-  - **Primary:** Python | C  
-  - **Additional:** Lua | HTML | CSS | JavaScript
+  - **Primary:**| Python | C |  
+  - **Additional:**| Lua | HTML | CSS | JavaScript |  
 
 - **Libraries & Frameworks**  
   - **Python:** NumPy, Pandas, Matplotlib, Selenium, Obs‑WebSocket‑Py, Django  
