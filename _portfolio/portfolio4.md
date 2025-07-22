@@ -1,6 +1,6 @@
 ---
 title: "Scoring and Evaluation Algorithm for MD Simulation Data"
-excerpt: "Overview of our MD scoring workflow for 5‑HT₂A receptor simulations.<br/><img src='/images/md_scoring_workflow.png'>"
+excerpt: "Overview of our MD scoring workflow for 5‑HT₂A receptor simulations."
 collection: portfolio
 ---
 
@@ -34,45 +34,16 @@ For each metric, only the **latter half** of the simulation (50 % of the total
 ### Scoring Function
 
 Each metric is converted into a normalized score in the range \([0,100]\) using an inverse‑square function:
-
-\[
-S = \frac{100}{\,1 + \bigl(\tfrac{x}{T}\bigr)^2 + k\,\delta^2\,}
-\]
-
-Where:
-
-- \(x\) is the observed value of the metric (in Å if applicable)  
-- \(T\) is the predefined threshold  
-- \(k\) is a penalty coefficient  
-- \(\delta = \max(0,\,x - T)\) is the amount by which \(x\) exceeds the threshold  
-
-> **Note:** If \(x \le T\), the penalty term \(k\,\delta^2\) is omitted, so the score decays purely by the inverse‑square law.
-
+<br/><img src='/images/scoring-function.png'>
 ---
 
-### Weighting Scheme
+### Weighting Scheme & Total Score Aggregation
 
 To ensure fair contribution of each metric to the final score, we assign weights proportional to the absolute magnitude of each normalized metric:
 
-\[
-w_i = \frac{\bigl|x_i\bigr|}{\sum_j \bigl|x_j\bigr|}
-\]
+<br/><img src='/images/weighting-scheme.png'>
 
 Metrics with higher fluctuations are down‑weighted, while those with smaller, stable values carry more influence. This also normalizes across different scales (e.g., RMSF vs Rg).
-
----
-
-### Total Score Aggregation
-
-The final score per replicate is computed as the weighted average of all individual scores:
-
-\[
-S_{\mathrm{total}} = \sum_i w_i \, S_i
-\]
-
-- \(S_i\): normalized score for metric \(i\)  
-- \(w_i\): corresponding weight  
-- Missing or `NaN` values are automatically excluded
 
 ---
 
