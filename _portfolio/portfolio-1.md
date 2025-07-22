@@ -81,6 +81,13 @@ The remaining ~~4~~ 3 bits of the 20-bit buffer can be used for control logic. H
 | 7       | 111   | 0x7         | N/A                 |
 
 ---
+
+<br/><img src='/images/vf2.jpg'>
+
+<br/><img src='/images/circuitboard.jpg'>
+
+
+
 ```c
 /*********************************************************************************
  * Authors: Aidan Bradley and Andrew Korman
