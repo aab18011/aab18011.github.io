@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me page"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I’m a multidisciplinary scientist and junior researcher working at the interface of **Computational Chemistry**, **Computational Biology**, and **Transition‑Metal Complex Catalysis**. My goal is to deepen our understanding of molecular structure and reactivity, and to translate that knowledge into new, greener technologies.
