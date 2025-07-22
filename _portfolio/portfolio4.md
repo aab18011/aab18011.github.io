@@ -30,10 +30,6 @@ For each metric, only the **latter half** of the simulation (50 % of the total
 3. Transformed into a numerical `pandas.DataFrame`
 
 ---
-
-### Scoring Function
-
-Each metric is converted into a normalized score in the range \([0,100]\) using an inverse‑square function:
 <br/><img src='/images/scoring-function.png'>
 ---
 
