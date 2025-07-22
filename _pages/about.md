@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About me page"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
-
-I’m a multidisciplinary scientist and junior researcher working at the interface of **Computational Chemistry**, **Computational Biology**, and **Transition‑Metal Complex Catalysis**. My goal is to deepen our understanding of molecular structure and reactivity, and to translate that knowledge into new, greener technologies.
+I’m a multidisciplinary scientist and junior researcher working at the interface of **Computational Chemistry**, **Computational Biology**, and **Transition‑Metal Complex Catalysis**. My goal is to deepen our understanding of molecular structure and reactivity, and to translate that knowledge into new, greener technologies. I am also keenly interesting in cognitive sciences as it relates to molecular physics.
 
 ---
 
@@ -33,8 +31,13 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
 ## 🏫 Academic & Lab Experience
 
 - **UConn Storrs – Brueckner Lab**  
-  *Undergraduate Research Assistant*  
+  *Summer Undergraduate Research Fellow (SURF)*  
   - Explored first-generation Ti‑catecholate syntheses  
+  - Assisted with porphyrin modification projects
+
+- **UConn Storrs – Brueckner Lab**  
+  *Undergraduate Research Assistant*  
+  - Characterized Ti‑catecholates  
   - Assisted with porphyrin modification projects
 
 - **UConn Stamford – Yarish Seaweed Lab**  
