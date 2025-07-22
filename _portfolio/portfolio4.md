@@ -37,13 +37,7 @@ Each metric is converted into a normalized score in the range \([0,100]\) using 
 <br/><img src='/images/scoring-function.png'>
 ---
 
-### Weighting Scheme & Total Score Aggregation
-
-To ensure fair contribution of each metric to the final score, we assign weights proportional to the absolute magnitude of each normalized metric:
-
 <br/><img src='/images/weighting-scheme.png'>
-
-Metrics with higher fluctuations are down‑weighted, while those with smaller, stable values carry more influence. This also normalizes across different scales (e.g., RMSF vs Rg).
 
 ---
 
