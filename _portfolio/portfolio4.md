@@ -41,6 +41,10 @@ Each metric is converted into a normalized score in the range \([0,100]\) using 
 
 ---
 
+<br/><img src='/images/score-matrix.png'>
+
+---
+
 ### Justification and Interpretation
 
 This scoring algorithm balances interpretability with quantitative rigor:
