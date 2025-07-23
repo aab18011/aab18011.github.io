@@ -59,8 +59,6 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
   *Computational Fellow*  
   - Simulating 5‑HT₂A receptor signaling for serotonin syndrome studies
 
-<br/><img src='/images/UoB.png'>
-
 ---
 
 ## 🔗 Ongoing Projects
@@ -76,3 +74,4 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
 
 ---
 
+<br/><img src='/images/UoB.png'>
