@@ -11,6 +11,10 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
 
 ---
 
+<br/><img src='/images/hiking-2.jpg' height="800px">
+
+---
+
 ## 🔬 Research Areas
 
 - **Titanium Catecholate Chemistry**  
