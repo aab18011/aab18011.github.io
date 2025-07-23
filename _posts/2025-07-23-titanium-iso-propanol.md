@@ -26,7 +26,7 @@ Efforts to further characterize the species in isopropanol via crystallization f
 
 ## Hypothesis
 
-We propose that the distinct optical behavior in isopropanol arises from ligand exchange or coordination involving the solvent. Isopropanol may interact with the Ti(IV) center, either as a neutral ligand (iPrOH) or as an alkoxide (iPrO⁻) following deprotonation, potentially displacing one catecholate ligand. This could result in the formation of a mixed-ligand complex, such as [Ti(Cat)₂(iPrO)₂] or [Ti(Cat)₂(iPrOH)₂]. Such a structural alteration would modify the electronic environment around the titanium center, shifting the LMCT bands to shorter wavelengths (e.g., 350 nm) and intensifying the absorption, as observed.
+I propose that the distinct optical behavior in isopropanol arises from ligand exchange or coordination involving the solvent. Isopropanol may interact with the Ti(IV) center, either as a neutral ligand (iPrOH) or as an alkoxide (iPrO⁻) following deprotonation, potentially displacing one catecholate ligand. This could result in the formation of a mixed-ligand complex, such as [Ti(Cat)₂(iPrO)₂] or [Ti(Cat)₂(iPrOH)₂]. Such a structural alteration would modify the electronic environment around the titanium center, shifting the LMCT bands to shorter wavelengths (e.g., 350 nm) and intensifying the absorption, as observed.
 
 The branched structure of isopropanol, compared to the linear n-propanol, may enhance its ability to coordinate to Ti(IV), either sterically or electronically, facilitating this transformation. In contrast, n-propanol appears to preserve the original tris-catecholate structure, maintaining the characteristic red color and spectral profile.
 
