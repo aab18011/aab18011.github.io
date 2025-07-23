@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemistry (ACS), University of Connecticut (2019 – Present)  
 * Minor in Molecular Cell Biology, University of Connecticut (2019 – Present)  
-* High School Diploma in Chemistry, Joseph A. Foran High School (2015 – 2019)  
+* High School Diploma, Joseph A. Foran High School (2015 – 2019)  
 
 Work experience
 ======
