@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aidan A. Bradley"
-  pronouns         : "He/Him/His"
+  pronouns         : # NO!
   bio              : "Organic Chemistry; Computational Biology; Titanium Catalysis; Protein Chemistry"
   location         : "Columbia, CT 06237, USA"
   employer         : "University of Connecticut"
