@@ -57,7 +57,9 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
 
 - **NYU – Valverde Collaborations**  
   *Computational Fellow*  
-  - Simulating 5‑HT₂A receptor signaling for serotonin syndrome studies  
+  - Simulating 5‑HT₂A receptor signaling for serotonin syndrome studies
+
+<br/><img src='/images/UoB.png'>
 
 ---
 
