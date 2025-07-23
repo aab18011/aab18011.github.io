@@ -6,34 +6,92 @@ modified: 2016-06-06
 
 {% include base_path %}
 {% include toc %}
+# Privacy policy
 
-## Privacy Policy
+---
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+## Terms of Service
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+_Last Updated: July 23, 2025_
 
-### Log Files
+By accessing or using this website (the “Site”), you agree to abide by these Terms of Service (“Terms”). If you do not agree to these Terms, please do not use the Site.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+---
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+### 1. Acceptance of Terms
 
-All of this information is not linked to anything that is personally identifiable.
+1.1 You agree that your use of the Site is at your sole risk.  
+1.2 Your use of the Site constitutes your acceptance of and agreement to these Terms.
 
-### Cookies and Web Beacons
+---
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+### 2. Privacy and Data Collection
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+2.1 **No Analytics or Tracking:** We do not use third‑party analytics services. We do not store or share any personal data beyond what is inherently collected by GitHub and GitHub Pages.  
+2.2 **Cookies:** We do not deploy additional cookies or web beacons. Any cookies set by GitHub or GitHub Pages are beyond our control and governed by their policies.  
+2.3 **IP Addresses:** We do not track IP addresses over time. Any logging of IP addresses occurs only transiently during an active session and is not retained for profiling or historical tracking.
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+---
 
-#### Google Analytics
+### 3. Intellectual Property
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+3.1 **Original Content:** All images, text, schematics, and other content not explicitly attributed are original works of Aidan A. Bradley and are protected by copyright.  
+3.2 **Code License:** All code on this Site—excluding the underlying GitHub Pages template—is licensed under the MIT License. You may use, copy, and modify this code solely for non‑commercial, no‑profit purposes. Commercial use requires explicit, written permission from the author.  
+3.3 **Schematics and Designs:** Electronic schematics published here are 100% original works of Aidan A. Bradley. They are provided under the MIT License for non‑commercial use only. Redistribution or commercial exploitation is prohibited without prior consent.
+
+---
+
+### 4. Permitted Use
+
+4.1 You may view, download, and print content from the Site for personal, educational, or research purposes, provided that:  
+- You retain all copyright and other proprietary notices.  
+- You do not use the material for commercial purposes.
+
+4.2 Any unauthorized commercial use or redistribution constitutes a breach of these Terms.
+
+---
+
+### 5. Liability Disclaimer
+
+5.1 **No Warranty:** The Site and its content are provided "as is" without warranties of any kind, either expressed or implied.  
+5.2 **Limitation of Liability:** In no event shall Aidan A. Bradley be liable for any indirect, incidental, consequential, or punitive damages arising out of your access to or use of the Site.  
+5.3 **No Liability for Misuse:** You agree not to hold the author or any affiliates responsible for damages arising from improper or unintended use of the provided schematics, code, or information.
+
+---
+
+### 6. Prohibited Conduct
+
+6.1 You may not:  
+- Copy or distribute any content for commercial gain.  
+- Reverse engineer or decompile any code beyond what is needed to achieve non‑commercial interoperability.  
+- Use the Site or its content in any manner that could harm or defraud any user, the author, or third parties.
+
+---
+
+### 7. Indemnification
+
+You agree to indemnify and hold harmless Aidan A. Bradley from any claims, losses, liabilities, damages, and expenses (including reasonable attorneys’ fees) arising from or related to your breach of these Terms or your misuse of the Site.
+
+---
+
+### 8. Amendments
+
+We reserve the right to modify these Terms at any time. Changes will become effective when posted. Your continued use of the Site after such modifications constitutes your acceptance of the revised Terms.
+
+---
+
+### 9. Contact Information
+
+For inquiries or clerical requests, please contact:
+
+- **Email:** aidan.bradley@uconn.edu
+
+---
+
+### 10. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the State of Connecticut, United States, without regard to its conflict of law provisions.
+
+---
+
+**By using this Site, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
