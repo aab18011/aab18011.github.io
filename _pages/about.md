@@ -73,5 +73,3 @@ I’m a multidisciplinary scientist and junior researcher working at the interfa
    Using photostable Ti complexes to enable low‑energy polymer synthesis.
 
 ---
-
-<br/><img src='/images/UoB.png'>
